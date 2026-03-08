@@ -1,0 +1,20 @@
+streamlit
+python-dotenv
+
+langchain-groq
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma==0.1.4
+
+chromadb==0.4.24
+numpy==1.26.4
+pypdf
+requests
+
+# Embeddings stack (compatible pins)
+torch==2.2.2
+transformers==4.39.3
+tokenizers==0.15.2
+accelerate==0.28.0
+sentence-transformers==2.7.0
